@@ -1,0 +1,79 @@
+name,slug,location,number
+California Credit union,california-credit-union,5,176
+California Coast Credit Union,california-coast-credit-union,5,178
+NYU federal Credit Union,nyu-federal-credit-union,5,180
+Lower East Side People's FCU,lower-east-side-peoples-fcu,5,182
+Bethpage Federal Credit Union,bethpage-federal-credit-union,5,184
+Grand Central Credit Union,grand-central-credit-union,5,186
+The Finest Federal Credit Union,the-finest-federal-credit-union,5,188
+Actors federal Credit Union,actors-federal-credit-union,5,190
+20th Century Fox Credit Union,20th-century-fox-credit-union,5,192
+Municipal Credit Union,municipal-credit-union,5,194
+First Florida Credit Union,first-florida-credit-union,5,196
+F&A Federal Credit Union,fa-federal-credit-union,5,198
+Southern California Credit Union,southern-california-credit-union,5,200
+East Harlem People's FCU,east-harlem-peoples-fcu,5,202
+Addition Financial,addition-financial,5,204
+MIDFLORIDA Credit Union,midflorida-credit-union,5,206
+Deutsche Bank,deutsche-bank,1,208
+Commerzbank,commerzbank,1,210
+DZ Bank,dz-bank,1,212
+N26,n26,1,214
+Landesbank Baden-Wurttemberg,landesbank-baden-wurttemberg,1,216
+UniCredit Bank AG,unicredit-bank-ag,1,218
+KFW,kfw,1,220
+DKB,dkb,1,222
+BayernLB,bayernlb,1,224
+Postbank,postbank,1,226
+Comdirect,comdirect,1,228
+Fidor Bank,fidor-bank,1,230
+Hamburg Commercial Bank,hamburg-commercial-bank,1,232
+Helaba,helaba,1,234
+Dresdnar,dresdnar,1,236
+GLS Bank,gls-bank,1,238
+Targo Bank,targo-bank,1,240
+Wells Fargo,wells-fargo,0,242
+Citi Bank,citi-bank,0,244
+Chase Bank,chase-bank,0,246
+Huntington Bank,huntington-bank,0,248
+Bank of America(BOA),bank-of-americaboa,0,250
+Woodforest Bank,woodforest-bank,0,252
+USAA Bank,usaa-bank,0,254
+AFCU Bank,afcu-bank,0,256
+Citizens Bank,citizens-bank,0,258
+M&T bank,mt-bank,0,260
+DCU Bank,dcu-bank,0,262
+Capital One Bank,capital-one-bank,0,264
+SunTrust Bank,suntrust-bank,0,266
+PayPal Logs,paypal-logs,0,268
+AMP Bank,amp-bank,2,270
+ANZ,anz,2,272
+Commonwealth Bank,commonwealth-bank,2,274
+IMB Bank,imb-bank,2,276
+ME Bank,me-bank,2,278
+Bank Australia,bank-australia,2,280
+Royal Bank of Canada,royal-bank-of-canada,4,282
+CIBC,cibc,4,284
+Bank Of Canada,bank-of-canada,4,286
+HSBC Bank,hsbc-bank,4,288
+Canadian Western Bank,canadian-western-bank,4,290
+Westpac Bank,westpac-bank,2,292
+Bank of Queensland,bank-of-queensland,2,294
+Heritage Bank,heritage-bank,2,296
+Beyond Bank Australia,beyond-bank-australia,2,298
+Bendigo and Adelaide Bank,bendigo-and-adelaide-bank,2,300
+Toronto-Dominion Bank,toronto-dominion-bank,4,302
+BMO BANK of Montreal,bmo-bank-of-montreal,4,304
+CitiGroup of Banks,citigroup-of-banks,4,306
+USA FULLZ,usa-fullz,3,308
+Germany fullz,germany-fullz,3,310
+Canadian fullz,canadian-fullz,3,312
+Cards,cards,-1,314
+TD Bank,td-bank1,4,316
+TD Bank USA,td-bank,0,318
+New York Times Employees,new-york-times-employees,5,320
+Chime,chime,0,322
+Zelle,zelle,0,324
+Cashapp,cashapp,0,326
+Bitcoin Logs,bitcoin-logs,-1,328
+Genesis,genesis,-1,330

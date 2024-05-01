@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="{% static 'css/verify.css' %}" />
+<title>Megacashouts Verification</title>
+</head>
+<body>
+
+  <div class="container">
+    <h2>Megacashouts Account Verification</h2>
+    {% if messages %}
+    {% for message in messages %}
+    <p>
+      {{message}}
+    </p>
+    {% endfor %}
+    {% else %}
+    <p>
+      We just sent you an SMS<br/>Enter the code to confirm your account.
+    </p>
+    {% endif %}
+    <form method="post">
+      {% csrf_token %}
+      <div class="code-container">
+        <input type="number" class="code" placeholder="0" min="0" max="9" name="code1" required>
+        <input type="number" class="code" placeholder="0" min="0" max="9" name="code2" required>
+        <input type="number" class="code" placeholder="0" min="0" max="9" name="code3" required>
+        <input type="number" class="code" placeholder="0" min="0" max="9" name="code4" required>
+      </div>
+
+      <div>
+        <button type="submit" class="btn btn-primary">Verify</button>
+      </div>
+    </form>
+
+    <small class="info">
+      If you didn't receive a code, <strong> <a href="{% url 'account:send_mail' %}">Request E-mail verification</a></strong>
+    </small>
+
+  </div>
+
+<script src="{% static 'js/verify1.js' %}"></script>
+</body>
+</html>
